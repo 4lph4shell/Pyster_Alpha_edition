@@ -30,7 +30,8 @@ Pytster utilizes API requests to interact with different OSINT websites, collect
      ```bash
      pip install -r requirements.txt
      ```
-     or just run `install.bat`
+     or just
+     ## run `install.bat`
 
 3. **Run the Application:**
    - Execute the main script:
